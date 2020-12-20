@@ -1,0 +1,10 @@
+package com.bitcamp.test.transaction;
+
+import org.springframework.web.servlet.ModelAndView;
+
+public class TransactionAnnotation {
+	SqlSession sqlSession;
+	public ModelAndView tranTest() {
+		
+	}
+}

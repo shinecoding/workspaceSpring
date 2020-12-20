@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="HW"/>
+<aop-project name="WebSpring05Mybatis"/>
+<aop-project name="WebSpring04Ajax"/>
+<aop-project name="WebSpring00"/>
+<aop-project name="WebSpring01"/>
+<aop-project name="WebSpring02JdbcTemplate"/>
+<aop-project name="WebSpring03FileUpload"/>
+</aop-reference-model>

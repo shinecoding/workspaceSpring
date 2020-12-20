@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="J2EE_EXPORT_OVERWRITE" value="true"/>
+	<item key="J2EE_EXPORT_SOURCE" value="false"/>
+	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="C:\Users\bitcamp\Desktop\WebSpring05Mybatis.war"/>
+		<item value="C:\Users\bitcamp\Desktop\WebSpring04Ajax.war"/>
+		<item value="C:\Users\bitcamp\Desktop\WebSpring03FileUpload.war"/>
+		<item value="C:\Users\bitcamp\Desktop\WebSpring02JdbcTemplate.war"/>
+		<item value="C:\Users\bitcamp\Desktop\WebSpring01.war"/>
+		<item value="C:\Users\bitcamp\Desktop\WebSpring00.war"/>
+	</list>
+</section>

@@ -1,0 +1,14 @@
+package com.bitcamp.test.transaction;
+
+import org.apache.ibatis.session.SqlSession;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.servlet.ModelAndView;
+
+public class TransactionAnnotation {
+	@Autowired
+	SqlSession sqlSession;
+	
+	public ModelAndView tranTest() {
+		
+	}
+}

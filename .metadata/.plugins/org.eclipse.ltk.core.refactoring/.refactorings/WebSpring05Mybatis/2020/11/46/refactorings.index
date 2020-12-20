@@ -1,0 +1,18 @@
+1604904855477	Move package
+1604904867690	Rename package 'com.bitcamp.test.mapper'
+1604904881029	Rename package 'com.bitcamp.mapper'
+1604904943979	Rename type 'RegisterDAOimplements'
+1604905961876	Move file
+1604906137921	Delete element
+1604906514563	Rename type 'RegisterDAOimp'
+1604906522782	Rename type 'RegisterDaoimp'
+1604909158968	Move compilation unit
+1604909162784	Move compilation unit
+1604909356861	Move file
+1604909362491	Delete element
+1604981868610	Copy file
+1604981878520	Rename resource 'root-context.xml'
+1604981886933	Rename resource 'mvc.xml'
+1605075947892	Delete element
+1605076572742	Copy file
+1605078532448	Copy folder
